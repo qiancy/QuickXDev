@@ -24,9 +24,9 @@ A quick-cocos2d-x develop plugin for sublime text 2/3.
 
 ## Installation
 
-1.Install via [Package Control](https://sublime.wbond.net/)
-    1.1.Howto (https://packagecontrol.io/installation)
-    1.2.SublimeText ->Preferences->Package Control :Install Package then QuickXDev.
+1.Install via [Package Control](https://sublime.wbond.net/) | [Howto](https://packagecontrol.io/installation)
+
+- 1.1.SublimeText ->Preferences->Package Control :Install Package then QuickXDev.
 
 2.Download .zip source file, then unzip it,rename it with "QuickXDev",then move "QuickXDev" folder into the SublimeText ```Data\Packages``` directory.  A restart of SublimeText might be nessecary to complete the install.
 
