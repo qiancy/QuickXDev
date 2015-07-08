@@ -35,6 +35,8 @@ A quick-cocos2d-x develop plugin for sublime text 2/3.
 
 ###setting
 
+SublimeText ->Preferences->Package Settings->QuickXDev->Settings Default or Settings User
+
 ```
 {
     "quick_cocos2dx_root": "<path>/quick-cocos2d-x",
